@@ -13,6 +13,8 @@ const TEXTOS = {
   "closingQuestion": "El imperio fue grande. ¿Lo fue tu vida?",
   "disclaimer": "Los desenlaces son ficticios pero podrían no haberlo sido. Los contextos históricos requieren una bibliografía específica contrastada antes de su publicación.La Edad de Oro fue principalmente miseria, dolor y humillaciones para inmensa mayoría de la población tanto en la península como en ultramar. A lo mejor estamos glorificando un pasado que arruinó y humilló a nuestros antepasados",
   "endingFinish": "FINALIZAR",
+  "endingRetry": "REINTENTAR",
+  "endingGiveUp": "DARME POR VENCIDO",
   "reflectionPersonal": "DISCLAIMER: Si has visto esto y te ha parecido mal (o bien): por lo que a un servidor de usted respecta, puedes seguir pensando o defendiendo lo que te dé la gana. Esto sólo es una invitación a reflexionar. También puedes insultarme, recordar a mi familia, mentarme a la madre o enviarme la contraseña de tu cuenta del banco a meritocrazy@proton.me ",
   "reflectionTitle": "LA GLORIA NUNCA FUE PARA TODOS.",
   "reflectionParagraph1": "",
