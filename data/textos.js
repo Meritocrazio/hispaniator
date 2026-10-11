@@ -1,0 +1,25 @@
+/* Textos generales editables: cambia solo el contenido entre comillas. */
+const TEXTOS = {
+  "introTitle": "El Imperio te reserva un pedazo de Gloria. Te atreves?",
+  "intro": "",
+  "introNote": "Escribe tu destino en el imperio más poderoso de la historia.",
+  "groupTitle": "¿QUÉ CLASE DE PERSONA ERES?",
+  "groupNote": "Tu destino te espera.",
+  "selectTitle": "ELIGE UNA VIDA",
+  "choiceTitleHigh": "LA GLORIA TE RECLAMA",
+  "choiceTitleLow": "LA VIDA EN EL IMPERIO",
+  "winMessage": "El imperio ha triunfado. Qué conveniente.",
+  "lossMessage": "Has tomado decisiones. No has elegido las reglas.",
+  "closingQuestion": "El imperio fue grande. ¿Lo fue tu vida?",
+  "disclaimer": "Los desenlaces son ficticios pero podrían no haberlo sido. Los contextos históricos requieren una bibliografía específica contrastada antes de su publicación.La Edad de Oro fue principalmente miseria, dolor y humillaciones para inmensa mayoría de la población tanto en la península como en ultramar. A lo mejor estamos glorificando un pasado que arruinó y humilló a nuestros antepasados",
+  "endingFinish": "FINALIZAR",
+  "reflectionPersonal": "DISCLAIMER: Si has visto esto y te ha parecido mal (o bien): por lo que a un servidor de usted respecta, puedes seguir pensando o defendiendo lo que te dé la gana. Esto sólo es una invitación a reflexionar. También puedes insultarme, recordar a mi familia, mentarme a la madre o enviarme la contraseña de tu cuenta del banco a meritocrazy@proton.me ",
+  "reflectionTitle": "LA GLORIA NUNCA FUE PARA TODOS.",
+  "reflectionParagraph1": "",
+  "reflectionParagraph2": "Los imperios los disfrutan las élites. Mientras unas/os heredaban privilegios, el resto pagaban sus guerras, impuestos y ambiciones. La Edad de Oro fue principalmente miseria, impuestos y guerras ajenas para la inmensa mayoría de la población. A lo mejor estamos glorificando un pasado que arruinó y humilló a nuestros antepasados .",
+  "reflectionClosing": "La historia de la grandeza también tiene otra cara, y seguramente sea la que te afecta a ti.",
+  "reflectionRetryHigh": "COMENZAR UNA NUEVA VIDA DE ESFUERZO",
+  "reflectionRetryLow": "REINTENTAR A VER SI HAY SUERTE",
+  "reflectionShare": "COMPARTIR",
+  "settings": "AJUSTES"
+};
